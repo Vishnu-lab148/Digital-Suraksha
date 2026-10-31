@@ -30,3 +30,6 @@ Open http://127.0.0.1:8000. API docs: http://127.0.0.1:8000/docs
 - The app is a local prototype. Before public deployment, add HTTPS, CSRF protections where applicable, rate limits, email verification, secure session cookies, account recovery, audit logging, file-type/content validation, malware scanning, and production database migrations.
 - Never store real secrets in source code. Do not upload sensitive files unless you understand how the app handles them.
 - Scam recovery links point to official Indian portals; confirm the domain before entering personal information. For urgent online financial fraud in India, call 1930 promptly.
+- ## Project Update
+- Project Name: Digital Suraksha
+- Description: A project focused on scam detection and cybersecurity. 
